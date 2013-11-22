@@ -1,0 +1,22 @@
+div#content{
+height:680px;
+width:1263px;
+float:bottom;
+}
+
+p.input{
+text-align:center;
+}
+
+p.gate{
+text-align:center;
+}
+
+p.success{
+text-align:center;
+}
+
+p.errormessage{
+text-align:center;
+color: red;
+}

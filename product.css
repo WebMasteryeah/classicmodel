@@ -1,0 +1,63 @@
+
+table#ProductDetails{
+    width: 800px;
+    border-width: 1px;
+    border-spacing: 0px;
+    border-style: inset;
+    border-color: gray;
+    border-collapse: collapse;
+    padding-bottom: 4px;
+    margin: 20px;
+}
+
+table#ProductDetails tr td + td{
+    width: 80%;
+    border-width: 1px;
+    border-spacing: 0px;
+    border-style: inset;
+    border-color: gray;
+    border-collapse: collapse;
+    padding-bottom: 4px;
+    margin: 20px;
+}
+
+table#ProductDetails td{
+    border-width: 1px;
+    border-spacing: 0px;
+    border-style: inset;
+    border-color: gray;
+    border-collapse: collapse;
+    padding-bottom: 4px;
+    margin: 40px;
+}
+
+div#content{
+margin: 15px;
+background-color:#EEEEEE;
+float:bottom;
+padding-bottom: 40px;
+padding-top: 40px;
+padding-left: 40px;
+}
+h1, h2, h3{
+margin: 20px;
+color:green;
+}
+
+h4{
+margin: 20px;
+color:green;
+padding-left:12px;
+padding-right:25px;
+}
+
+p.desc{
+margin: 20px;
+padding-left:12px;
+}
+
+p{
+margin: 20px;
+padding-left:12px
+
+}

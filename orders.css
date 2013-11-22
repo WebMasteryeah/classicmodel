@@ -1,0 +1,32 @@
+td {
+    border:1px solid blue;
+}
+
+table, td {
+    border-width: 1px;
+    border-spacing: 0px;
+    border-style: inset;
+    border-color: gray;
+    border-collapse: collapse;
+    padding-bottom: 4px;
+    margin: 20px;
+}
+
+div#content{
+margin: 15px;
+background-color:#EEEEEE;
+float:bottom;
+padding-bottom: 40px;
+padding-top: 40px;
+padding-left: 40px;
+}
+
+h1, h2, h3, h4{
+margin: 20px;
+color:green
+}
+
+p{
+margin: 20px;
+padding-left:5px;
+}

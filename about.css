@@ -1,0 +1,18 @@
+div#content{
+margin: 15px;
+background-color:#EEEEEE;
+float:bottom;
+padding-bottom: 40px;
+padding-top: 40px;
+padding-left: 40px;
+}
+
+h1, h2, h3, h4{
+margin: 20px;
+color:green
+}
+
+p.desc{
+margin: 20px;
+padding-left:12px;
+}
